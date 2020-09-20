@@ -8,5 +8,4 @@
 - assignments
 
 [GitHub](https://github.com/travelwithwind/STA314)
-
-[Get Started](./)
+[Get Started](./README.md)
