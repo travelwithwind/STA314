@@ -1,3 +1,3 @@
 <!-- docs/_sidebar.md -->
-
-* [k means](/notes/k%20clustering.md)
+* [Notes](/notes/)
+* [k means](./k%20clustering.md)
