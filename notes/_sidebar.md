@@ -1,1 +1,1 @@
-* [k means](/k%20clustering.md)
+* [k means](./k%20clustering.md)
