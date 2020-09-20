@@ -3,4 +3,4 @@
 
 * [Exercises](exercises/)
 
-  * [k means](exercises//kmeans/学习感受.md)
+  * [k means](exercises//kmeans/123.md)
