@@ -2,3 +2,4 @@
 
 * [Home](/README.md)
 * [Notes](/notes/)
+* [Exercises](/exercises/)
