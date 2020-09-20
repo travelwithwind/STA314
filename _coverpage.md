@@ -7,5 +7,6 @@
 - exercise
 - assignments
 
-[GitHub](https://github.com/travewithwind/STA314)
+[GitHub](https://github.com/travelwithwind/STA314)
+
 [Get Started](./)
