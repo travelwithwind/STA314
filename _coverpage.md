@@ -8,4 +8,4 @@
 - assignments
 
 [GitHub](https://github.com/travewithwind/STA314/)
-[Get Started](#STA314)
+[Get Started](/)
