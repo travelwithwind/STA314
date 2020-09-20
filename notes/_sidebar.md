@@ -1,4 +1,4 @@
 <!-- docs/_sidebar.md -->
 
-* [Home](/)
+* [notes](./)
 * [k means](./k%20clustering.md)
