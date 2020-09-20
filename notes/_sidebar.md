@@ -1,4 +1,4 @@
 <!-- docs/_sidebar.md -->
 * [Home](/README.md)
 * [Notes](/notes/)
-  * [k means](./k%20clustering.md)
+  * [k means](/notes/k%20clustering.md)
