@@ -1,4 +1,4 @@
 <!-- docs/_sidebar.md -->
 
-* [Home](/)
+* [Home](/README.md)
 * [Notes](/notes/)
