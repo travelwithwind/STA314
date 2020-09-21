@@ -1,5 +1,5 @@
 <!-- docs/_sidebar.md -->
 
 * [Home](/README.md)
-* [Notes](/notes/)
+* [Notes](/lecture%20summary/)
 * [Exercises](/exercises/)
