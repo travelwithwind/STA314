@@ -1,11 +1,11 @@
 # hierarchical clustering
 
 ## 对比 k-means 
-    * k-means 需要提前确定k centers，得到的结果每次都不一样。 hierarchical 不需要，结果是唯一的，因此很有层次感，经常是用heat map 来展示
-      ![](https://2.bp.blogspot.com/-38wWn7KD6v0/TgTJskG1ujI/AAAAAAAAC5g/0k33b0L5fL8/s400/heatmap.png)
-    * k-means 每次迭代要算所有point 到不同center 的距离，但是不确定要算多少次，所有complexity O(n)
-      hierarchical 每次迭代要算所有 point 之间的距离，而且每次迭代只能确定一个point 的归属，
-      所以感觉 complexity是 O(n^3)
+ * k-means 需要提前确定k centers，得到的结果每次都不一样。 hierarchical 不需要，结果是唯一的，因此很有层次感，经常是用heat map 来展示
+   ![](https://2.bp.blogspot.com/-38wWn7KD6v0/TgTJskG1ujI/AAAAAAAAC5g/0k33b0L5fL8/s400/heatmap.png)
+ * k-means 每次迭代要算所有point 到不同center 的距离，但是不确定要算多少次，所有complexity O(n)
+   hierarchical 每次迭代要算所有 point 之间的距离，而且每次迭代只能确定一个point 的归属，
+   所以感觉 complexity是 O(n^3)
 
 ## linkage
 * single linkage: 两个群，有两个人是朋友，那么大家都是朋友   
